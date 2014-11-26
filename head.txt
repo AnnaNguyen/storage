@@ -1,0 +1,3 @@
+ Available:	98.2 GB (98,196,262,912 bytes)
+  Capacity:	118.8 GB (118,803,136,512 bytes)
+  Mount Point:	/
