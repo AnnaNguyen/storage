@@ -1,0 +1,10 @@
+  Available:	98.2 GB (98,196,262,912 bytes)
+  Capacity:	118.8 GB (118,803,136,512 bytes)
+  Mount Point:	/
+  File System:	Journaled HFS+
+  Writable:	Yes
+  Ignore Ownership:	No
+  BSD Name:	disk1
+  Volume UUID:	7E9EE134-0CD8-36C5-81A3-8B2555E92F9F
+  Logical Volume:
+  Revertible:	Yes (no decryption required)
